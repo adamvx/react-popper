@@ -8,8 +8,6 @@
 # NPM / Yarn
 node_modules
 npm-debug.log
-dist
-lib
 yarn-error.log
 coverage
 
